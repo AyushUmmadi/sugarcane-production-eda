@@ -91,7 +91,7 @@ Before analysis, the raw dataset required several cleaning steps to make it usab
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/sugarcane-production-eda.git
+   git clone https://github.com/AyushUmmadi/sugarcane-production-eda.git
    cd sugarcane-production-eda
    ```
 
